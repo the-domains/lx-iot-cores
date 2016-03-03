@@ -1,0 +1,28 @@
+name: LX IoT Cores
+favicon: null
+layout_spectrum: 0.9921390912495553
+typography_spectrum: 0.22128007537685335
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5013131923042238
+  lightness: 0.5405468207318336
+  saturation: 0.47476003551855683
+  rhythmicContrast: 0.19724301365204155
+purpose: []
