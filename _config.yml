@@ -1,7 +1,7 @@
 name: LX IoT Cores
 favicon: null
-layout_spectrum: 0.9921390912495553
-typography_spectrum: 0.22128007537685335
+layout_spectrum: 0.50267
+typography_spectrum: 0.74085
 title: "The world's most configurable IoT hardware engine ..."
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.5013131923042238
+  brandStrength: 0.5
   lightness: 0.5405468207318336
-  saturation: 0.47476003551855683
+  saturation: 0.6875
   rhythmicContrast: 0.19724301365204155
 purpose: []
